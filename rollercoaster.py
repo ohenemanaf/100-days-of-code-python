@@ -11,6 +11,7 @@ if height >= 120 :
     #this condition checks the age for ticket pricing
     #accepting age input from user
     age = int(input("Please enter your age: "))
+    
     if age <= 12:
         print("Your ticket price is $5.")
     elif age <= 18:
