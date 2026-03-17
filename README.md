@@ -9,9 +9,9 @@ I am officially taking the 100 Days of Code challenge! My goal is to master Pyth
 - [x] **Day 3:** BMI calculator & RollerCoaster (Control flow & Logical Operators)
 - [x] **Day 4:** Rock,paper,scissors (Randomization & Python List)
 - [x] **Day 5:** PyPassword Generator (For Loops & Ranges)
-- [x] **Day 6:** PyPassword Generator (For Loops & Ranges)
-- [x] **Day 7:** PyPassword Generator (For Loops & Ranges)-
-- [x] **Day 8:** PyPassword Generator (For Loops & Ranges)
+- [x] **Day 6:** Karel(Python Functions)
+- [x] **Day 7:** Hangman project *
+- [x] **Day 8:** Caesar Cipher(Function Parameters)
 - [x] **Day 9:** PyPassword Generator (For Loops & Ranges)
 - [x] **Day 10:** PyPassword Generator (For Loops & Ranges)
 - [x] **Day 11:** PyPassword Generator (For Loops & Ranges)
