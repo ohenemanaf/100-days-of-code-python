@@ -12,7 +12,7 @@ I am officially taking the 100 Days of Code challenge! My goal is to master Pyth
 - [x] **Day 6:** Karel(Python Functions)
 - [x] **Day 7:** Hangman project *
 - [x] **Day 8:** Caesar Cipher(Function Parameters)
-- [x] **Day 9:** PyPassword Generator (For Loops & Ranges)
+- [x] **Day 9:** Secret Auction (Python Dictionaries and Nesting)
 - [x] **Day 10:** PyPassword Generator (For Loops & Ranges)
 - [x] **Day 11:** PyPassword Generator (For Loops & Ranges)
 
