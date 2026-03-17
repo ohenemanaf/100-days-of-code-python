@@ -13,10 +13,10 @@ I am officially taking the 100 Days of Code challenge! My goal is to master Pyth
 - [x] **Day 7:** Hangman project *
 - [x] **Day 8:** Caesar Cipher(Function Parameters)
 - [x] **Day 9:** Secret Auction (Python Dictionaries and Nesting)
-- [x] **Day 10:** PyPassword Generator (For Loops & Ranges)
+- [x] **Day 10:** Simple Calculator (Functions with output)
 - [x] **Day 11:** PyPassword Generator (For Loops & Ranges)
 
 ## 📈 Stats
-- **Current Streak:** 5 Day
+- **Current Streak:** 10 Day
 - **Language:** Python 3.12
 - **Editor:** VS Code
